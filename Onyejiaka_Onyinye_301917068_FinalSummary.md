@@ -1,6 +1,6 @@
 # MIT 8103 Advanced Database Systems
 
-**Workforce Scheduling and Attendance** · Onyinye Onyejiaka · Student ID 301917068
+**Workforce Scheduling and Attendance Platform** · Onyinye Onyejiaka · Student ID 301917068
 
 ## Case study
 
