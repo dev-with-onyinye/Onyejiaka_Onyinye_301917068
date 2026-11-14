@@ -1,7 +1,13 @@
-# Onyinye Onyejiaka — MIT 8103
+# Workforce Scheduling and Attendance
 
-Student ID: 301917068
+Onyinye Onyejiaka · Student ID 301917068
 
-A workforce management application that enables organizations to manage employee records, shifts, clock-in and clock-out events, and attendance reports.
+The portfolio uses fictional records for Workforce Scheduling and Attendance.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Onyejiaka_Onyinye_301917068_FinalSummary.md) · [PDF](Onyejiaka_Onyinye_301917068_FinalSummary.pdf)
