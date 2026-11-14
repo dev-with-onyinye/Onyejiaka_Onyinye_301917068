@@ -1,4 +1,4 @@
-# Workforce Scheduling and Attendance
+# Workforce Scheduling and Attendance Platform
 
 Onyinye Onyejiaka · Student ID 301917068
 
